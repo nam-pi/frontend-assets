@@ -1,2 +1,2 @@
-# frontend-texts
-Texts for the NAMPI frontend
+# frontend-assets
+Assets for the NAMPI frontend
