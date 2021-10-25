@@ -2,5 +2,7 @@
 
 This page is about the user privacy.
 
-| test | table |
+| test | table      |
+| ---- | ---------- |
 | this | is a table |
+
