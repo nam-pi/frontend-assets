@@ -6,3 +6,8 @@ This page is about the user privacy.
 | ---- | ---------- |
 | this | is a table |
 
+```mermaid
+graph LR
+    Start --> Stop
+```
+
