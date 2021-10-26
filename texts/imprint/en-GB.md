@@ -18,11 +18,12 @@ Permalink: [https://purl.org/nampi](https://purl.org/nampi)
 
 All content and services on this website are provided by:
 
-- ICARUS – International Centre for Archival Research
-- Gertrude-Fröhlich-Sandner-Straße 2-4 | Tower C, Floor 7-9
-- A-1100 Wien
-- Austria
-- e-mail: [info@icar-us.eu](mailto:info@icar-us.eu)
-- Association domicile: Vienna, Austria
-- Legal form: Non-profit organization
+ICARUS – International Centre for Archival Research  
+Gertrude-Fröhlich-Sandner-Straße 2-4 | Tower C, Floor 7-9  
+A-1100 Wien  
+Austria
 
+E-mail: [info@nampi.icar-us.eu](mailto:info@nampi.icar-us.eu)
+
+Association domicile: Vienna, Austria  
+Legal form: Non-profit organization
