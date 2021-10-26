@@ -8,7 +8,7 @@ grant programme of the Austrian Academy of Sciences.
 
 ## Contributors
 
-The following persons have contributed to the development of th
+The following persons have contributed to the development NAMPI:
 
 ### University of Vienna, Institute for History
 
