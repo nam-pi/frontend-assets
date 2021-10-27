@@ -34,7 +34,6 @@ The following persons have contributed to the development NAMPI:
 A special thank you goes out to all persons that have contributed to NAMPI with
 help, suggestions and other assistence. Among them:
 
+- Barbara Kröger MA
 - Mag. Dr. Thomas J.J. Wallnig, Privatdoz. MAS
 - Prof. P. DDr. Alkuin Schachenmayr OCist
-- Barbara Kröger MA
-

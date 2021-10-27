@@ -1,4 +1,4 @@
-# Data
+# Used data sources
 
 This page lists the various data sources for the NAMPI database. To directly
 access any of them, please visit the [sources](/sources) page.
