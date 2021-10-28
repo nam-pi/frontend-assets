@@ -71,5 +71,5 @@ using a persistent URL:
 [^1]:
     Michele Pasin and John Bradley, Factoid-based Prosopography and Computer
     Ontologies: Towards an Integrated Approach, in: Digital Scholarship in the
-    Humanities 30 (2015) 86-97.n
+    Humanities 30 (2015) 86-97.
 
