@@ -11,4 +11,4 @@ accompanying [webapp](https://github.com/nam-pi/frontend). Both have been
 developed as part of the NAMPI-Project and are freely available on
 [GitHub](https://github.com/nam-pi).
 
-![NAMPI Logo](NAMPI_Logo_Quadrat_2000px.png)
+![](NAMPI_Logo_Quadrat_2000px.png)

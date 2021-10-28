@@ -23,7 +23,7 @@ necessary. Detail-ontologies are used to provide this model with more details as
 required by individual installations of the NAMPI platform and their
 data/research focus.
 
-![Schematic data model](data-scheme.svg)
+![Schematic model of the core data](data-scheme.svg)
 
 ## Monastic Life
 
@@ -37,7 +37,7 @@ parallel to the document interpretation process performed on the sources
 included in the project. Due to the fact that the data ingestion process is
 still ongoing, the ontology is being expanded continually.
 
-![Network](mona-network.svg)
+![Overview of the monastic life event data network](mona-network.svg)
 
 ## Ontology files
 
