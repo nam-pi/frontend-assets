@@ -11,6 +11,7 @@ interpreted source location. To model this temporal entity in more detail and
 enable the system to be better comparable with other data by default, we chose
 to limit the shape temporal entities could assume to events as described in
 [CIDOC-CRM](http://www.cidoc-crm.org/sites/default/files/Documents/cidoc_crm_version_5.0.4.html#_Toc310250716).
+
 These events can have a time and a place as well as a main person and other
 participants, which can be both persons and groups of persons. The interactions
 between participants of such events and the wider world are modelled as aspects
@@ -19,13 +20,16 @@ to keep the system as expressive as possible; they can range from roles within
 groups and occupations of persons to titles and names obtained during an event,
 as well as other things. Thus, the main classes in NAMPI-Core are: Act (as in
 document-interpretation-act), Author, Source (and Source Location), Event,
-Person, Group, Date, Place, and Aspect. Detail-ontologies are used to provide
-this model with more details as required by individual installations of the
-NAMPI platform and their data/research focus.
+Person, Group, Date, Place, and Aspect.
+
+Detail-ontologies are used to provide this model with more details as required
+by individual installations of the NAMPI platform and their data/research focus.
 
 ![Schematic model of the core data](data-scheme.svg)
 
-### Main events
+### Main entities
+
+The following table shows the main entities used in the core data model.
 
 | Name                                                              | Description                                                                                                                                                                                                                                                                                                                                                                           |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
