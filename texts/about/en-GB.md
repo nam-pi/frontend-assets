@@ -36,6 +36,6 @@ help, suggestions and other assistence. Among them:
 
 - Dr. Mag. Thomas J.J. Wallnig, Privatdoz. MAS
 - Prof. P. DDr. Alkuin Schachenmayr OCist
-- Barbara Kröger MA and the [Germania Sacra](https://adw-goe.de/germania-sacra/)
-  team
 - The whole [VieCPro](https://viecpro.oeaw.ac.at) team
+- Barbara Kröger, MA and the 
+  [Germania Sacra](https://ad-goe.de/germania-sacra/) team
