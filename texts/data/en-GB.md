@@ -11,12 +11,12 @@ analogue sources. These are:
 ### Dominicans Imbach
 
 - Chronik Dominikanerinnen Imbach 1659
-- Novitiatsbuch Salesianerinnen Wien 1718–1790
-- Taufbuch Salesianerinnen Wien 1717–1790
 
 ### Salesian Sisters Vienna
 
+- Novitiatsbuch Salesianerinnen Wien 1718–1790
 - Personalstand Salesianerinnen Wien ca. 1729–1790
+- Taufbuch Salesianerinnen Wien 1717–1790
 
 ### Gaming Charterhouse
 
@@ -25,11 +25,11 @@ analogue sources. These are:
 ### Necrologies of the Baroque brotherhood of St. Joseph
 
 The necrologies of the Baroque brotherhood of St. Joseph at the Cistercian abbey
-of Lilienfeld in Lower Austria are preserved for the years 1662 to 1782 in
-several collections and contain several hundred deceased members per year. The
-names of the (spiritual and secular) deceased are marked with the date of death
-and the place of death, with additional information such as anniversaries added
-for the clergy.
+of Lilienfeld in Lower Austria are preserved for the years 1675 to 1752 in the
+archives of Göttweig and Rein. The necrologies contain several hundred deceased
+members of the brotherhood per year. The names of the (spiritual and secular)
+deceased are marked with the date of death and the place of death, with
+additional information such as anniversaries added for the clergy.
 
 ## Interpreted sources
 
@@ -40,4 +40,3 @@ religious clergy from the Middle Ages to the 20th century. It currently includes
 approximately 900 monks and canons of six Austrian monasteries (Melk,
 Klosterneuburg, Schlägl, Lilienfeld, St. Peter in Salzburg, and Heiligenkreuz)
 from the 18th Century.
-

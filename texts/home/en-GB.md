@@ -1,9 +1,10 @@
 # Welcome to NAMPI
 
-_Nuns and Monks - Prosopograhical Interfaces_ is the product of a project funded
-by the Austrian Academy of Sciences. It enables you to [browse](/events) and
-[search](/search) through various [aspects](/aspects) in the life of early
-modern nuns and monks from Austria and the surrounding areas.
+_Nuns and Monks - Prosopographical Interfaces_ is the product of a project
+funded by the go!digital Next Generation programme of the Austrian Academy of
+Sciences. It enables you to [browse](/events) and [search](/search) through
+various [aspects](/aspects) in the life of early modern nuns and monks from
+Austria and the surrounding areas.
 
 The available data comes from several newly edited sources and new
 interpretation of pre-existing databases. To read more about the used sources,

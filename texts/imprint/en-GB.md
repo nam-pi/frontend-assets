@@ -10,6 +10,12 @@ Project partners are:
 - University of Vienna, Institute for History
 - University of Graz
 
+## Licensing
+
+All text content is licensed under the Creative Commons license
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0), software licenses are
+noted in the source code repositories.
+
 ## Identification
 
 Permalink: [https://purl.org/nampi](https://purl.org/nampi)
