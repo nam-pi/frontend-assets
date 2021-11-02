@@ -14,9 +14,9 @@ analogue sources. These are:
 
 ### Salesian Sisters Vienna
 
-- Novitiatsbuch Salesianerinnen Wien 1718–1790
-- Personalstand Salesianerinnen Wien ca. 1729–1790
-- Taufbuch Salesianerinnen Wien 1717–1790
+- Archiv der Salesianerinnen Wien, Hs. 11 (Personalstand)
+- Archiv der Salesianerinnen Wien, Hs. 4 (Novitiatsbuch)
+- Archiv der Salesianerinnen Wien, Hs. 5 (Taufbuch)
 
 ### Gaming Charterhouse
 
@@ -30,6 +30,12 @@ archives of Göttweig and Rein. The necrologies contain several hundred deceased
 members of the brotherhood per year. The names of the (spiritual and secular)
 deceased are marked with the date of death and the place of death, with
 additional information such as anniversaries added for the clergy.
+
+- StiA Göttweig, Hs. J/III/14, Nr. 168
+- StiA Göttweig, Hs. J/III/15, Nr. 56
+- StiA Göttweig, Hs. J/III/5, Nr. 27
+- StiA Göttweig, Hs. J/III/6, Nr. 30
+- StiA Rein, Hs. 313, unpaginiert
 
 ## Interpreted sources
 

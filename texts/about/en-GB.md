@@ -1,8 +1,8 @@
 # About
 
 This website as well as the underlying data and software are a product of the
-project _NAMPI - Nuns and Monks - Prosopograhical Interfaces_ that was conducted
-between 2019 and 2021 as part of the
+project _NAMPI - Nuns and Monks - Prosopographical Interfaces_ that was
+conducted between 2019 and 2021 as part of the
 [go!digital Next Generation](https://www.oeaw.ac.at/foerderungen/godigital/godigital-next-generation-ausgewaehlte-projekte#c84827)
 grant programme of the Austrian Academy of Sciences.
 
@@ -37,5 +37,5 @@ help, suggestions and other assistence. Among them:
 - Dr. Mag. Thomas J.J. Wallnig, Privatdoz. MAS
 - Prof. P. DDr. Alkuin Schachenmayr OCist
 - The whole [VieCPro](https://viecpro.oeaw.ac.at) team
-- Barbara Kröger, MA and the 
-  [Germania Sacra](https://ad-goe.de/germania-sacra/) team
+- Barbara Kröger, MA and the [Germania Sacra](https://ad-goe.de/germania-sacra/)
+  team
