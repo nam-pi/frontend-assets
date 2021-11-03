@@ -39,3 +39,4 @@ help, suggestions and other assistence. Among them:
 - The whole [VieCPro](https://viecpro.oeaw.ac.at) team
 - Barbara Kröger, MA and the [Germania Sacra](https://ad-goe.de/germania-sacra/)
   team
+- Walpurga Oppeker
