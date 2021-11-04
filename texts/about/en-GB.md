@@ -6,6 +6,11 @@ conducted between 2019 and 2021 as part of the
 [go!digital Next Generation](https://www.oeaw.ac.at/foerderungen/godigital/godigital-next-generation-ausgewaehlte-projekte#c84827)
 grant programme of the Austrian Academy of Sciences.
 
+NAMPI has been presented to the public at a "Geschichte am Mittwoch" lecture at
+the University of Vienna in Nombember 2021. The slides of the presentation give
+a further introduction into many of the aspects of the project:
+[download](https://documents.icar-us.eu/documents/2021/11/nampi-geschichte-am-mittwoch-2021-11-03.pdf)
+
 ## Contributors
 
 The following persons have contributed to the development NAMPI:
