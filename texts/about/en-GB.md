@@ -11,6 +11,10 @@ the University of Vienna in Nombember 2021. The slides of the presentation give
 a further introduction into many of the aspects of the project:
 [download](https://documents.icar-us.eu/documents/2021/11/nampi-geschichte-am-mittwoch-2021-11-03.pdf)
 
+## Download final data dump
+
+The state of the RDF data at the official end of the project has been made publicly available. It can be downloaded and reused/remixed from the following GitHub repository: [NAMPI final data dump](https://github.com/nam-pi/final_data)
+
 ## Contributors
 
 The following persons have contributed to the development NAMPI:
